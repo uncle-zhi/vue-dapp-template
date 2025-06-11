@@ -3,7 +3,7 @@
    <div class="wallet-connector-wrapper">
       <WalletConnector />
     </div>
-    <h1>🦊 DApp 示例 - Vue + JS</h1>
+    <h1>🦊 DApp 示例 - Vue + JS_测试</h1>
     <ContractInteractor />
        <router-link to="/new">
       <a-button>跳转到新页面</a-button>
